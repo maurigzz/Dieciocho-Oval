@@ -36,7 +36,7 @@
                   1. <strong>ALIANZA VERDE</strong>
                 </h3>
                 <p class="text-big font-light">
-                  <strong>999999</strong>
+                  <strong>0</strong>
                 </p>
                 <h3>
                   <strong>PUNTOS</strong>
@@ -53,7 +53,7 @@
                   2. <strong>ALIANZA ROJA</strong>
                 </h3>
                 <p class="text-big font-light">
-                  <strong>999999</strong>
+                  <strong>0</strong>
                 </p>
                 <h3>
                   <strong>PUNTOS</strong>
@@ -70,7 +70,7 @@
                   3. <strong>ALIANZA NARANJA</strong>
                 </h3>
                 <p class="text-big font-light">
-                  <strong>999999</strong>
+                  <strong>0</strong>
                 </p>
                 <h3>
                   <strong>PUNTOS</strong>
@@ -87,7 +87,7 @@
                   4. <strong>ALIANZA GRIS</strong>
                 </h3>
                 <p class="text-big font-light">
-                  <strong>999999</strong>
+                  <strong>0</strong>
                 </p>
                 <h3>
                   <strong>PUNTOS</strong>
